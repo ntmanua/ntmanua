@@ -8,21 +8,21 @@ I'm Passionate about programming technology
 
 Languages and Tools:
 &nbsp;&nbsp;
-![img_vscode](./img/vscode.svg)
+![img_vscode](./images/vscode.svg)
 &nbsp;&nbsp;
-![img_html](./img/html.svg)
+![img_html](./images/html.svg)
 &nbsp;&nbsp;
-![img_css](./img/css.svg)
+![img_css](./images/css.svg)
 &nbsp;&nbsp;
-![img_javascript](./img/javascript.svg)
+![img_javascript](./images/javascript.svg)
 &nbsp;&nbsp;
-![img_php](./img/php.svg)
+![img_php](./images/php.svg)
 &nbsp;&nbsp;
-![img_git](./img/github.svg)
+![img_git](./images/git.svg)
 
 Connect with me:
 &nbsp;&nbsp;
-![img_linkedin](./img/linkedin.svg)
+![img_linkedin](./images/linkedin.svg)
 
 My GitHub Stats:
 &nbsp;&nbsp;
