@@ -1,12 +1,12 @@
 <h1>Manuarii Natanni</h1>
  Hi, I'm Manua 👋
 
-I'm Passionate about programming technology 
+I'm **passionate** about **programming technology**
 
 - 🌱 I’m currently learning **Web developpment**
 - 📫 How to reach me **manuarii.natanni@gmail.com**
 
-Languages and Tools:
+**Languages and Tools:**<br><br>
 &nbsp;&nbsp;
 ![img_vscode](./images/vscode.svg)
 &nbsp;&nbsp;
@@ -20,10 +20,10 @@ Languages and Tools:
 &nbsp;&nbsp;
 ![img_git](./images/git.svg)
 
-Connect with me:
+**Connect with me:**<br><br>
 &nbsp;&nbsp;
 ![img_linkedin](./images/linkedin.svg)
 
-My GitHub Stats:
+<strong>My GitHub Stats:</strong><br><br>
 &nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntmanua&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntmanua&show_icons=true&theme=tokyonight)
