@@ -1,28 +1,16 @@
-<h1>Manuarii Natanni</h1>
- Hi, I'm Manua 👋
+<h1 align="center" >Manuarii Natanni</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="100%" height="250"/>
+</div>
 
-I'm **passionate** about **programming technology**
-
+### ABOUT ME
 - 🌱 I’m currently learning **Web developpment**
 - 📫 How to reach me **manuarii.natanni@gmail.com**
 
-**Languages and Tools:**<br><br>
-&nbsp;&nbsp;
-![img_vscode](./images/vscode.svg)
-&nbsp;&nbsp;
-![img_html](./images/html.svg)
-&nbsp;&nbsp;
-![img_css](./images/css.svg)
-&nbsp;&nbsp;
-![img_javascript](./images/javascript.svg)
-&nbsp;&nbsp;
-![img_php](./images/php.svg)
-&nbsp;&nbsp;
-![img_git](./images/git.svg)
+### :hammer_and_wrench: Languages and Tools :
 
-**Connect with me:**<br><br>
-&nbsp;&nbsp;
-![img_linkedin](./images/linkedin.svg)
+
+
 
 <strong>My GitHub Stats:</strong><br><br>
 &nbsp;&nbsp;
