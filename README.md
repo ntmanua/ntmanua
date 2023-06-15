@@ -26,4 +26,4 @@ I'm **passionate** about **programming technology**
 
 <strong>My GitHub Stats:</strong><br><br>
 &nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntmanua&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ntmanua&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
