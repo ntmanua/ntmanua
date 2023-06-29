@@ -1,7 +1,4 @@
 <h1 align="center" >Manuarii Natanni</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="100%" height="250"/>
-</div>
 
 ### ABOUT ME
 - 🌱 I’m currently learning **Web developpment**
