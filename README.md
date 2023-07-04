@@ -6,6 +6,19 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+&nbsp;&nbsp;
+![img_vscode](./images/vscode.svg)
+&nbsp;&nbsp;
+![img_html](./images/html.svg)
+&nbsp;&nbsp;
+![img_css](./images/css.svg)
+&nbsp;&nbsp;
+![img_javascript](./images/javascript.svg)
+&nbsp;&nbsp;
+![img_php](./images/php.svg)
+&nbsp;&nbsp;
+![img_git](./images/git.svg)
+&nbsp;&nbsp;
 
 
 
