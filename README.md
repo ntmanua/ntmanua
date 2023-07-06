@@ -28,6 +28,6 @@
 
 
 
-<strong>My GitHub Stats:</strong><br><br>
+### 🔥 My GitHub Stats:
 &nbsp;&nbsp;
 [![Manuarii's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=ntmanua&theme=dark&background=000000)](https://git.io/streak-stats)
