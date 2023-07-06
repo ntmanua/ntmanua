@@ -15,7 +15,13 @@
 &nbsp;&nbsp;
 ![img_javascript](./images/javascript.svg)
 &nbsp;&nbsp;
+![img_git](./images/nodejs.svg)
+&nbsp;&nbsp;
+![img_php](./images/express-js.svg)
+&nbsp;&nbsp;
 ![img_php](./images/php.svg)
+&nbsp;&nbsp;
+![img_git](./images/mysql.svg)
 &nbsp;&nbsp;
 ![img_git](./images/git.svg)
 &nbsp;&nbsp;
