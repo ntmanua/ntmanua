@@ -30,4 +30,4 @@
 
 <strong>My GitHub Stats:</strong><br><br>
 &nbsp;&nbsp;
-[![Manuarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntmanua&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Manuarii's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=ntmanua&theme=dark&background=000000)](https://git.io/streak-stats)
