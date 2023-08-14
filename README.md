@@ -36,6 +36,6 @@
 ### 🔥 My GitHub Stats:
 
 &nbsp;&nbsp;
-[![Manuarii's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=ntmanua&theme=dark&background=000000)]
+![Manuarii's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=ntmanua&theme=dark&background=000000)
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntmanua&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntmanua&layout=compact&theme=vision-friendly-dark)
